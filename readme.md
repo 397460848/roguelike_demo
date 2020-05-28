@@ -1,4 +1,7 @@
 # Summery
+-- 
+> This is a personal practic projects based on a roguelike game tutorial by libtcod.   
+> The tutorial url is <http://rogueliketutorials.com/>
 ### part-1
 ```
 init and load source
