@@ -29,3 +29,16 @@ abstract GameMap
 
 handle the relationship between move and block tile
 ```
+### part-3
+```
+abstract Rect
+    x1, x2, y1, y2
+    center()
+    intersect(other)
+
+update GameMap
+    create_room(room)
+    make_map()
+    create_h_tunnel()
+    create_v_tunnel()
+```
